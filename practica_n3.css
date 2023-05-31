@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(215, 216, 198);
+}
+.estilo{
+    margin-left: 35%;
+    background-color: rgb(76, 76, 189);
+    width: 300px;
+	background: #258a60;
+	padding: 20px;
+}
+.btt{
+    padding: 10px;
+    margin-left: 10px;
+    background-color: #d6d578;
+}
+.bttt{
+    padding: 10px;
+    margin: 10px;
+    background-color: #9dad42;
+    border-radius: 50px;
+    text-align: center;
+}
+*{
+    margin: 12px;
+}
